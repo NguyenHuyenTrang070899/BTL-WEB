@@ -10,4 +10,3 @@
 - Cao Đức Huân
 ## Hệ thống: Online Book Store
 - Tài liệu: [link](https://docs.google.com/document/d/1nirlfvY4lF--OIcOufM3g_1XTzV5W-9aZ9SOkiynXjQ/)
-- Slide thuyết trình: 
