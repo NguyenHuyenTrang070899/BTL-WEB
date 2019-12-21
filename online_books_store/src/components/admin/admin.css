@@ -1,0 +1,21 @@
+﻿nav ul li a {
+    padding: 30px 20px;
+    font-family: "RobotoLight";
+    font-size: 20px;
+    color: #fff;
+    display: inline-block;
+}
+
+   ul nav  li a:hover {
+        background-color: #fff;
+        color: #000 !important;
+        height: 100%;
+        width:100%;
+    }
+.col-sm-12.bg-info.mx-auto.d-flex {
+    height: 80px;
+}
+.col_sm-2.mr-sm-0.mx-auto {
+    position: relative;
+    top: 30px
+}

@@ -1,0 +1,16 @@
+.row.justify-content-sm-center.w-100.h-100 .row {
+    position: relative;
+    top: 0px;
+    background-color: black;
+    opacity: 0.8;
+    height: 10%;
+    width: 102%
+}
+
+.col_sm-2.ml-sm-5 {
+    position: relative;
+    top: 30px
+}
+.col-sm-2.mr-sm-0.ml-sm-5.d-flex{
+    line-height:100px;
+}
